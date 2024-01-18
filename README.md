@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **notion like clone**
 
-- 🌱 I’m currently learning **cs50 Course**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Web development projects and c++ code.**
 
