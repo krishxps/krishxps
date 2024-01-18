@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I can edit your videos**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: krishxps@gmail.com </h3>
 <p align="left">
 </p>
 
